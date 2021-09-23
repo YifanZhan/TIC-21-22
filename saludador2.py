@@ -3,7 +3,7 @@ def saludador2 ( ) :
 
     nombre = raw_input (" como te llamas <3 ?  ")
 
-    edad = input ("cuantos anios tienes UwU?  ")
+    edad = raw_input ("cuantos anios tienes UwU?  ")
 
     lugar = raw_input ("donde vives 7w7 ? " )
 
