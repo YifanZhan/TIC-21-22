@@ -5,7 +5,7 @@ def tabla () :
     numero = input ("dame un numero  ")
     for cont in range (0 , 21) :
         print ( str(numero)) +("x")+ (str (cont)) +( " = ") +(str(numero*cont))
-    print (" Ya tienes el resultado")
+    print (" Ya tienes los resultados ")
 
 tabla ()
 
